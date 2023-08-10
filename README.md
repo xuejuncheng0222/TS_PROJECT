@@ -1,2 +1,2 @@
 # TS_PROJECT
-联系TS项目
+练习TS项目
