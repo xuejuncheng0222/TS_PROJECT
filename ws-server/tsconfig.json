@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "strict": true,
+      "lib": ["ESNext", "DOM"],
+      "target": "ES2015",
+      "esModuleInterop": true,
+      "rootDir": "./src",
+      "baseUrl": "./src",
+      "outDir": "./dist",
+      "noEmit": false,
+      "moduleResolution": "node",
+      "composite": true
+    },
+    "include": ["src"]
+  }
+  
