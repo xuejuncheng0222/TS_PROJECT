@@ -2,6 +2,7 @@
   "scripts": {
     "serve": "cd ts-project && npm run serve",
     "build": "npm run build",
-    "lint": "npm run lint"
+    "lint": "npm run lint",
+    "boot": "cd ws-server && ts-node src/index.ts"
   } 
 }
